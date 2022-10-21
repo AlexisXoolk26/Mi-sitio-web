@@ -1,0 +1,29 @@
+div.galeria p{
+    color: rgb(18, 18, 24);
+    text-decoration: none;
+    text-decoration: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(13, 231, 231);
+    
+}
+
+div.galeria{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightblue, 0 6px 20px 0;
+
+}
+div.galeria img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 350px;;
+}
+body{
+    background-image: none;
+    color: antiquewhite;
+    background-color: rgb(243, 167, 167);
+}
+div.galeria:hover{
+    border: 1px ;
+    transform: rotate(-3deg);
+}

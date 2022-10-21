@@ -1,0 +1,112 @@
+body{
+    
+   background-color: rgba(248, 253, 197, 0.993);
+}
+h1{
+    padding-top: 10px;
+    color: white;
+    font-weight: normal;
+    text-shadow: 1px 2px black, 0 0 20px blue, 0 0 5px blue;
+    text-align: center;
+    font-family: 'Courgette', cursive ;
+    margin: 15px 0 0
+    
+    
+}
+h2{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px black, 0 0 25px blue, 0 0 5px blue;
+    font-size: 1em;
+    margin: -13px 0 0;
+    font-weight: normal;
+   
+}
+a{ 
+    text-decoration:none; 
+    text-decoration: black;
+}
+#cubierta{
+    padding: 0px 0px 5%; /* izquierda y derecha, 5%px de padding*/
+}
+header{
+    padding: 5%;
+    background-color: rgb(255, 211, 132);
+    border: black;
+}
+nav a, nav a:visited{
+  
+    color: rgb(177, 14, 14);
+    text-shadow: 1px 1px;
+    border:rgb(67, 217, 223)
+    
+
+}
+nav{
+    text-align: center;
+    margin: 20px 0 0;
+    padding: 10px 0;
+    position: relative;
+    nav-down: auto;
+}
+#Tec{
+    position: relative;
+    left: 1100px;
+    position: absolute;
+    top: 90px;
+}
+#Tec2{
+    position: relative;
+    left: 50px;
+    position: absolute;
+    top: 90px;
+    
+}
+footer{
+    font-size: 00.75em;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(87, 77, 77);
+}
+
+#perfil{
+    padding: 11%;
+    background-color: rgb(116, 218, 90);
+    border: black;
+}
+#fondo{
+    background-color: rgba(80, 141, 165, 0.986);
+    border: chartreuse;
+}
+#img{
+    
+    position: relative;
+    left: 500px;
+    position: absolute;
+    top: 90px;
+    padding-top:29px;
+}
+#autor{
+    position: absolute;
+    top: 270px;
+    position: relative;
+    left: 6px;
+}
+#redes{
+    position: relative;
+    left: 10px;
+    position: absolute;
+    top: 90px;
+    padding-top:40px;   
+    
+}
+#ins{
+    position: relative;
+    left: 10px;
+    position: absolute;
+    top: 11px;
+ 
+    width: 5; 
+    height: 5;
+}
